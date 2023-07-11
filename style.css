@@ -1,0 +1,45 @@
+
+body{
+    height: 1000px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price_color{
+    color: #ff3987;
+}
+.btn{
+   background-color: #ff3987;
+   color: white;
+   cursor: pointer;
+}
+.grid_1{
+    background-color: #ffc107;
+}
+.catagori{
+    margin-top: 40px;
+   
+    
+}
+.catagori img{
+   width: 120px;
+}
+.catagori h1{
+   color: white;
+ }
+.catagori_1 , .catagori_2 , .catagori_3{
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.catagori_1{
+    background-color: orange;
+}.catagori_2{
+    background-color: blue;
+}
+.catagori_3{
+    background-color: #ff3987;
+}
