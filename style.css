@@ -1,6 +1,6 @@
 
 body{
-    height: 1000px;
+    background-color: #ffffff;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -42,4 +42,21 @@ body{
 }
 .catagori_3{
     background-color: #ff3987;
+}
+.input_box{
+    background-color: #fceae8;
+    margin-top: 20px;
+    height: 300px;
+}
+.input_area input{
+    width: 300px;
+    outline: none;
+    border-radius: 5px;
+}
+.input_area .btn{
+    margin-top: 10px;
+}
+.end_sectino{
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
